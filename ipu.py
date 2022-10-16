@@ -10,7 +10,9 @@ ipf=np.array([35.,65.,91.,65.,104.])
 
 # for i in range(1,len(df.columns)):
 #     print(i)
-
+e=epsilon=np.finfo('float').eps
+for i in ipf:
+    if i==0: i=e
 w=np.array(df['weights'],dtype=np.float32)
 df=df.drop(['ID'],axis=1)
 df=df.drop(['weights'],axis=1)
