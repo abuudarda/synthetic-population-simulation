@@ -3,7 +3,7 @@ import pandas as pd
 from ipfn import ipfn
 import numpy as np
 #a=pd.read_csv("/content/2D Ipf - Untitled spreadsheet - Sheet1.csv")
-n=[[[476,410],[472,400],[407,483],[413,413]],[[410,400],[465,472],[460,488],[424,491]]]
+n=np.ones()
 
 
 xipp=np.array([4200,3446])
