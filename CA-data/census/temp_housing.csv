@@ -1,0 +1,144 @@
+topic,category,sub-category,id,value
+BEDROOMS,Total housing units,1 bedroom,DP04_0040E,1901893.0
+BEDROOMS,Total housing units,2 bedrooms,DP04_0041E,3882434.0
+BEDROOMS,Total housing units,3 bedrooms,DP04_0042E,4732658.0
+BEDROOMS,Total housing units,4 bedrooms,DP04_0043E,2427818.0
+BEDROOMS,Total housing units,5 or more bedrooms,DP04_0044E,608378.0
+BEDROOMS,Total housing units,No bedroom,DP04_0039E,622795.0
+BEDROOMS,Total housing units,,DP04_0038E,14175976.0
+GROSS RENT,Occupied units paying rent,"$1,000 to $1,499",DP04_0129E,1629755.0
+GROSS RENT,Occupied units paying rent,"$1,500 to $1,999",DP04_0130E,1323648.0
+GROSS RENT,Occupied units paying rent,"$2,000 to $2,499",DP04_0131E,762419.0
+GROSS RENT,Occupied units paying rent,"$2,500 to $2,999",DP04_0132E,391290.0
+GROSS RENT,Occupied units paying rent,"$3,000 or more",DP04_0133E,383503.0
+GROSS RENT,Occupied units paying rent,$500 to $999,DP04_0128E,939983.0
+GROSS RENT,Occupied units paying rent,Less than $500,DP04_0127E,277350.0
+GROSS RENT,Occupied units paying rent,Median (dollars),DP04_0134E,1503.0
+GROSS RENT,Occupied units paying rent,No rent paid,DP04_0135E,181738.0
+GROSS RENT,Occupied units paying rent,,DP04_0126E,5707948.0
+GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),Occupied units paying rent (excluding units where GRAPI cannot be computed),15.0 to 19.9 percent,DP04_0138E,624925.0
+GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),Occupied units paying rent (excluding units where GRAPI cannot be computed),20.0 to 24.9 percent,DP04_0139E,683540.0
+GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),Occupied units paying rent (excluding units where GRAPI cannot be computed),25.0 to 29.9 percent,DP04_0140E,646550.0
+GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),Occupied units paying rent (excluding units where GRAPI cannot be computed),30.0 to 34.9 percent,DP04_0141E,534670.0
+GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),Occupied units paying rent (excluding units where GRAPI cannot be computed),35.0 percent or more,DP04_0142E,2531764.0
+GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),Occupied units paying rent (excluding units where GRAPI cannot be computed),Less than 15.0 percent,DP04_0137E,576825.0
+GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),Occupied units paying rent (excluding units where GRAPI cannot be computed),Not computed,DP04_0143E,291412.0
+GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),Occupied units paying rent (excluding units where GRAPI cannot be computed),,DP04_0136E,5598274.0
+HOUSE HEATING FUEL,Occupied housing units,"Bottled, tank, or LP gas",DP04_0064E,422508.0
+HOUSE HEATING FUEL,Occupied housing units,Coal or coke,DP04_0067E,1486.0
+HOUSE HEATING FUEL,Occupied housing units,Electricity,DP04_0065E,3470566.0
+HOUSE HEATING FUEL,Occupied housing units,"Fuel oil, kerosene, etc.",DP04_0066E,31508.0
+HOUSE HEATING FUEL,Occupied housing units,No fuel used,DP04_0071E,433521.0
+HOUSE HEATING FUEL,Occupied housing units,Other fuel,DP04_0070E,42524.0
+HOUSE HEATING FUEL,Occupied housing units,Solar energy,DP04_0069E,79321.0
+HOUSE HEATING FUEL,Occupied housing units,Utility gas,DP04_0063E,8364730.0
+HOUSE HEATING FUEL,Occupied housing units,Wood,DP04_0068E,198102.0
+HOUSE HEATING FUEL,Occupied housing units,,DP04_0062E,13044266.0
+HOUSING OCCUPANCY,Total housing units,Homeowner vacancy rate,DP04_0004E,1.1
+HOUSING OCCUPANCY,Total housing units,Occupied housing units,DP04_0002E,13044266.0
+HOUSING OCCUPANCY,Total housing units,Rental vacancy rate,DP04_0005E,3.6
+HOUSING OCCUPANCY,Total housing units,Vacant housing units,DP04_0003E,1131710.0
+HOUSING OCCUPANCY,Total housing units,,DP04_0001E,14175976.0
+HOUSING TENURE,Occupied housing units,Average household size of owner-occupied unit,DP04_0048E,3.01
+HOUSING TENURE,Occupied housing units,Average household size of renter-occupied unit,DP04_0049E,2.88
+HOUSING TENURE,Occupied housing units,Owner-occupied,DP04_0046E,7154580.0
+HOUSING TENURE,Occupied housing units,Renter-occupied,DP04_0047E,5889686.0
+HOUSING TENURE,Occupied housing units,,DP04_0045E,13044266.0
+MORTGAGE STATUS,Owner-occupied units,Housing units with a mortgage,DP04_0091E,5030939.0
+MORTGAGE STATUS,Owner-occupied units,Housing units without a mortgage,DP04_0092E,2123641.0
+MORTGAGE STATUS,Owner-occupied units,,DP04_0090E,7154580.0
+OCCUPANTS PER ROOM,Occupied housing units,1.00 or less,DP04_0077E,11970478.0
+OCCUPANTS PER ROOM,Occupied housing units,1.01 to 1.50,DP04_0078E,688128.0
+OCCUPANTS PER ROOM,Occupied housing units,1.51 or more,DP04_0079E,385660.0
+OCCUPANTS PER ROOM,Occupied housing units,,DP04_0076E,13044266.0
+ROOMS,Total housing units,1 room,DP04_0028E,558227.0
+ROOMS,Total housing units,2 rooms,DP04_0029E,584548.0
+ROOMS,Total housing units,3 rooms,DP04_0030E,1676903.0
+ROOMS,Total housing units,4 rooms,DP04_0031E,2736521.0
+ROOMS,Total housing units,5 rooms,DP04_0032E,2780044.0
+ROOMS,Total housing units,6 rooms,DP04_0033E,2411995.0
+ROOMS,Total housing units,7 rooms,DP04_0034E,1490914.0
+ROOMS,Total housing units,8 rooms,DP04_0035E,984809.0
+ROOMS,Total housing units,9 rooms or more,DP04_0036E,952015.0
+ROOMS,Total housing units,Median rooms,DP04_0037E,5.1
+ROOMS,Total housing units,,DP04_0027E,14175976.0
+SELECTED CHARACTERISTICS,Occupied housing units,Lacking complete kitchen facilities,DP04_0074E,149260.0
+SELECTED CHARACTERISTICS,Occupied housing units,Lacking complete plumbing facilities,DP04_0073E,56547.0
+SELECTED CHARACTERISTICS,Occupied housing units,No telephone service available,DP04_0075E,216264.0
+SELECTED CHARACTERISTICS,Occupied housing units,,DP04_0072E,13044266.0
+SELECTED MONTHLY OWNER COSTS (SMOC),Housing units with a mortgage,"$1,000 to $1,499",DP04_0096E,678544.0
+SELECTED MONTHLY OWNER COSTS (SMOC),Housing units with a mortgage,"$1,500 to $1,999",DP04_0097E,928816.0
+SELECTED MONTHLY OWNER COSTS (SMOC),Housing units with a mortgage,"$2,000 to $2,499",DP04_0098E,881852.0
+SELECTED MONTHLY OWNER COSTS (SMOC),Housing units with a mortgage,"$2,500 to $2,999",DP04_0099E,709672.0
+SELECTED MONTHLY OWNER COSTS (SMOC),Housing units with a mortgage,"$3,000 or more",DP04_0100E,1554271.0
+SELECTED MONTHLY OWNER COSTS (SMOC),Housing units with a mortgage,$500 to $999,DP04_0095E,254770.0
+SELECTED MONTHLY OWNER COSTS (SMOC),Housing units with a mortgage,Less than $500,DP04_0094E,23014.0
+SELECTED MONTHLY OWNER COSTS (SMOC),Housing units with a mortgage,Median (dollars),DP04_0101E,2357.0
+SELECTED MONTHLY OWNER COSTS (SMOC),Housing units with a mortgage,,DP04_0093E,5030939.0
+SELECTED MONTHLY OWNER COSTS (SMOC),Housing units without a mortgage,"$1,000 or more",DP04_0108E,382432.0
+SELECTED MONTHLY OWNER COSTS (SMOC),Housing units without a mortgage,$250 to $399,DP04_0104E,353961.0
+SELECTED MONTHLY OWNER COSTS (SMOC),Housing units without a mortgage,$400 to $599,DP04_0105E,546413.0
+SELECTED MONTHLY OWNER COSTS (SMOC),Housing units without a mortgage,$600 to $799,DP04_0106E,407866.0
+SELECTED MONTHLY OWNER COSTS (SMOC),Housing units without a mortgage,$800 to $999,DP04_0107E,253251.0
+SELECTED MONTHLY OWNER COSTS (SMOC),Housing units without a mortgage,Less than $250,DP04_0103E,179718.0
+SELECTED MONTHLY OWNER COSTS (SMOC),Housing units without a mortgage,Median (dollars),DP04_0109E,594.0
+SELECTED MONTHLY OWNER COSTS (SMOC),Housing units without a mortgage,,DP04_0102E,2123641.0
+SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),10.0 to 14.9 percent,DP04_0119E,363581.0
+SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),15.0 to 19.9 percent,DP04_0120E,208342.0
+SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),20.0 to 24.9 percent,DP04_0121E,132827.0
+SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),25.0 to 29.9 percent,DP04_0122E,90864.0
+SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),30.0 to 34.9 percent,DP04_0123E,62413.0
+SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),35.0 percent or more,DP04_0124E,252696.0
+SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),Less than 10.0 percent,DP04_0118E,982803.0
+SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),Not computed,DP04_0125E,30115.0
+SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),,DP04_0117E,2093526.0
+SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),20.0 to 24.9 percent,DP04_0112E,779951.0
+SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),25.0 to 29.9 percent,DP04_0113E,616708.0
+SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),30.0 to 34.9 percent,DP04_0114E,441046.0
+SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),35.0 percent or more,DP04_0115E,1471641.0
+SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),Less than 20.0 percent,DP04_0111E,1695074.0
+SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),Not computed,DP04_0116E,26519.0
+SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),,DP04_0110E,5004420.0
+UNITS IN STRUCTURE,Total housing units,"1-unit, attached",DP04_0008E,998444.0
+UNITS IN STRUCTURE,Total housing units,"1-unit, detached",DP04_0007E,8185405.0
+UNITS IN STRUCTURE,Total housing units,10 to 19 units,DP04_0012E,736195.0
+UNITS IN STRUCTURE,Total housing units,2 units,DP04_0009E,342007.0
+UNITS IN STRUCTURE,Total housing units,20 or more units,DP04_0013E,1740938.0
+UNITS IN STRUCTURE,Total housing units,3 or 4 units,DP04_0010E,779145.0
+UNITS IN STRUCTURE,Total housing units,5 to 9 units,DP04_0011E,857546.0
+UNITS IN STRUCTURE,Total housing units,"Boat, RV, van, etc.",DP04_0015E,15161.0
+UNITS IN STRUCTURE,Total housing units,Mobile home,DP04_0014E,521135.0
+UNITS IN STRUCTURE,Total housing units,,DP04_0006E,14175976.0
+VALUE,Owner-occupied units,"$1,000,000 or more",DP04_0088E,1086234.0
+VALUE,Owner-occupied units,"$100,000 to $149,999",DP04_0083E,190492.0
+VALUE,Owner-occupied units,"$150,000 to $199,999",DP04_0084E,284035.0
+VALUE,Owner-occupied units,"$200,000 to $299,999",DP04_0085E,791435.0
+VALUE,Owner-occupied units,"$300,000 to $499,999",DP04_0086E,1918472.0
+VALUE,Owner-occupied units,"$50,000 to $99,999",DP04_0082E,161791.0
+VALUE,Owner-occupied units,"$500,000 to $999,999",DP04_0087E,2523951.0
+VALUE,Owner-occupied units,"Less than $50,000",DP04_0081E,198170.0
+VALUE,Owner-occupied units,Median (dollars),DP04_0089E,505000.0
+VALUE,Owner-occupied units,,DP04_0080E,7154580.0
+VEHICLES AVAILABLE,Occupied housing units,1 vehicle available,DP04_0059E,3968129.0
+VEHICLES AVAILABLE,Occupied housing units,2 vehicles available,DP04_0060E,4851748.0
+VEHICLES AVAILABLE,Occupied housing units,3 or more vehicles available,DP04_0061E,3296432.0
+VEHICLES AVAILABLE,Occupied housing units,No vehicles available,DP04_0058E,927957.0
+VEHICLES AVAILABLE,Occupied housing units,,DP04_0057E,13044266.0
+YEAR HOUSEHOLDER MOVED INTO UNIT,Occupied housing units,Moved in 1989 and earlier,DP04_0056E,1559162.0
+YEAR HOUSEHOLDER MOVED INTO UNIT,Occupied housing units,Moved in 1990 to 1999,DP04_0055E,1617527.0
+YEAR HOUSEHOLDER MOVED INTO UNIT,Occupied housing units,Moved in 2000 to 2009,DP04_0054E,3105646.0
+YEAR HOUSEHOLDER MOVED INTO UNIT,Occupied housing units,Moved in 2010 to 2014,DP04_0053E,3560545.0
+YEAR HOUSEHOLDER MOVED INTO UNIT,Occupied housing units,Moved in 2015 to 2016,DP04_0052E,1935685.0
+YEAR HOUSEHOLDER MOVED INTO UNIT,Occupied housing units,Moved in 2017 or later,DP04_0051E,1265701.0
+YEAR HOUSEHOLDER MOVED INTO UNIT,Occupied housing units,,DP04_0050E,13044266.0
+YEAR STRUCTURE BUILT,Total housing units,Built 1939 or earlier,DP04_0026E,1295410.0
+YEAR STRUCTURE BUILT,Total housing units,Built 1940 to 1949,DP04_0025E,842579.0
+YEAR STRUCTURE BUILT,Total housing units,Built 1950 to 1959,DP04_0024E,1903089.0
+YEAR STRUCTURE BUILT,Total housing units,Built 1960 to 1969,DP04_0023E,1893121.0
+YEAR STRUCTURE BUILT,Total housing units,Built 1970 to 1979,DP04_0022E,2490898.0
+YEAR STRUCTURE BUILT,Total housing units,Built 1980 to 1989,DP04_0021E,2132529.0
+YEAR STRUCTURE BUILT,Total housing units,Built 1990 to 1999,DP04_0020E,1547774.0
+YEAR STRUCTURE BUILT,Total housing units,Built 2000 to 2009,DP04_0019E,1581294.0
+YEAR STRUCTURE BUILT,Total housing units,Built 2010 to 2013,DP04_0018E,245999.0
+YEAR STRUCTURE BUILT,Total housing units,Built 2014 or later,DP04_0017E,243283.0
+YEAR STRUCTURE BUILT,Total housing units,,DP04_0016E,14175976.0
