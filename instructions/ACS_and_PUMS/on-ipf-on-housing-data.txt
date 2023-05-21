@@ -1,0 +1,33 @@
+The candidate attributes to run IPF on housing related data
+
+Census Data Categories -----------------------------------------------
+	1. Housing Unit Occupancy - 
+		a. ocupied
+		b. vacant
+	2. Units in Structure
+	3. Gross Rent -
+		a. no rent paid
+		b. other rent ranges in data 
+	4. Occupants Per Room
+	5. Rooms
+	6. Bedrooms
+	7. Vehicle Available
+
+
+PUMS data Categories -------------------------------------------------
+	1. NP - to be translated to Occupants Per Room in census data
+	2. BDSP - Bedrooms in census data
+	3. BLD - Units in Structure in census data
+	4. RMSP - Rooms in census data
+	5. RNTP - to be translated to Gross Rent in census data
+	6. VACS - to be translated to Housing Unit Occupancy
+	7. VEH - Vehicle Available in the Census data
+
+----------------------------------------------------------------------
+
+1. Read the housing data census file and extract the desired attributes
+   to construct the marginal sums.
+2. Read the desired columns in the housing data pums file then do the
+   required transformation (counting/summing/categorizing) in the data
+   to produce the seed values for IPF.
+3. Run the IPF algorithm 
