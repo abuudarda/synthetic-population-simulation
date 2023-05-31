@@ -19,7 +19,7 @@ def ipu(datafile, constrains):
 
     for col in df.columns:
         x = 0
-        for j in range(len(df)):
+        for j in range(len(df)) :
             x += w[j]*df[col][j]
         ws[i] = x
         i += 1
