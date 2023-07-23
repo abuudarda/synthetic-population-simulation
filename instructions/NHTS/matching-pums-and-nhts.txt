@@ -1,0 +1,18 @@
+----------------------------------------pums data categories:
+
+Person record
+1. age
+2. educational attainment
+3. worker (no, part-time, full-time)
+
+Housing record
+1. household income
+2. number of persons in the household
+
+
+----------------------------------------NHTS data categories
+1. age
+2. educational attainment
+3. worker
+4. household income
+5. number of persons in the household

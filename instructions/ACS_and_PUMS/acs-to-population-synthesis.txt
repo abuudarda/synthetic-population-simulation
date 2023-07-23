@@ -1,0 +1,59 @@
+We need to use the American Community Survey (ACS) census data and its 
+public use microdata samples (PUMS) for deriving synthetic households 
+for our target synthetic population construction process. ACS census and
+PUMS data are both downloadable directly from the ACS website or through
+its FTP server. We can use any of the two means to get the data.
+
+Now to the IPF algorithm, we have do construct the marginal distribution
+for different demographic, social, and economic characteristis readily 
+from the census data. Then we select the same/related attributes in the
+PUMS data to generate the seed distributions (a.k.a) a multidimensional
+table to kick start the IPF process. One important thing to remember is
+that, we need to format the downloaded data from ACS before we can use 
+it for IPF. For exmaple, each census data has metadata associated with it 
+that needs to be removed. For many demographics a margin of error is 
+given in the census data. That need to be used to determine the accuracy
+threshold we seek for IPF. Finally, sometimes the demographic attribute
+of the census data may not directly match demographic attributes in the
+PUMS data. So we need to transform either the PUMS or the census data 
+before we use them.
+
+The IPF library we will use is the Python IPFN library. It takes input
+in both numpy multidimensional array and pandas dataframe format. So our
+translated input data must be in those two format. IPFN website says that
+numpy version of the library is faster. Another thing to note that the 
+numpy version of IPF allows to specify the termination accuracy threshold
+for the algorithm but pandas version does not allow that. So when working
+on larger data that is unlikely to converge to the merginal very closely,
+numpy is the better option. So that should be the final target, but we 
+should support both data format for ease of understanding and the sake of 
+completeness.
+
+Once IPF completes, we have the estimated joint distributions for American
+households for the chosen year of census data for our demographic 
+characteristics of interet. To construct the synthetic householeds from
+these joint distribution, we need to use some joint-distribution sampling
+process. The idea is that for a single sample, you find the demographic 
+attributes along different dimensions. Then you choose a household from
+the PUMS data that satisfy all those attributes. When you pick a PUMS
+household, you also retain other attrbutes of the household that you did 
+not use for IPF but that may come handy in later steps of the population
+synthesis process.
+
+So to summarize the steps are as follows
+
+	1. investigate ACS census and PUMS data to determine 
+	   the model demographics for population estimation.
+	2. Download nation-wide or region-specific ACS survey 
+	   and PUMS data for the chosen demographics.
+	3. Format the downloaded data to create pandas and/or
+	   numpy input for ipfn
+	4. Decide the threshold accuracy level that is adequate
+	   and reasonable for IPF termination	
+	5. Run IPFN up-to desired level of accuracy.
+	6. Sample from PUMS data following the joint probability
+
+
+
+
+       

@@ -1,0 +1,7 @@
+According to the information provided in ACS2015_2019_PUMS_README.pdf file, the  serial number 
+attribute in both housing and person record puma files can be used as the merge key for combining 
+household level attributes with person level attributes (read Page 10 of that PDF file to verify
+the case). However, note that some caution must be applied when merging the two files as the 
+housing file contains vacant housing records for which no person level record should be found in 
+the person file. Also remember that, after merging what we get is a person records file where 
+housing related information of the person are attached with sample person.

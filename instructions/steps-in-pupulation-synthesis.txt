@@ -1,0 +1,38 @@
+So far what I understand from reading a few papers about constructing synthetic 
+population, there are four core steps in the construction process:
+
+1. Population Synthesis:
+In the first step, one uses census data from his target area (nation, state, 
+region) and some representative sample data within that target area then applies
+iterative proportional fitting to determine the joint destribution of the 
+population from marginal totals found in the census data using the sample data
+as the seed for IPF initialization.
+
+After the joint distribution is estimated then some sampling technology is used
+to sample the desired number of households and individuals from the sample data.
+In this case sampling with replacement is done and emphasis is given on 
+maintaining that the demographic statistic of the synthetic population respect
+both the representative sample used as seed and that of the joint distribution.
+
+In constructing the synthetic population of the United States or any of its 
+regions, we should use the American Community Survey data for marginal totals 
+and  the PUMA data that is also a part of the census for our region of interest 
+as both seed for IPF and source for synthetic household sampling.
+
+2. Location Assignment:
+At this step, real individuals (without any identifying information) are assigned
+to the synthetic individuals in the synthetic households based on travel data. In
+the case of synthetic population construction of United States, National 
+Household travel survey is being used. A regression technique is used to determine
+the closest matching synthetic household with real world household based on 
+maximum person-to-person distance between the individuls in the real and synthetic
+household. 
+
+I need to read more about this process and investigate the travel data to better 
+inderstand how this step is conducted.
+
+
+3. Activity Assignment:
+
+
+4. Interaction Estimation/Tracking:
