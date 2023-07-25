@@ -1,0 +1,154 @@
+topic,category,sub-category,id,value
+ANCESTRY,Total population,American,DP02_0124E,1190751.0
+ANCESTRY,Total population,Arab,DP02_0125E,308903.0
+ANCESTRY,Total population,Czech,DP02_0126E,78798.0
+ANCESTRY,Total population,Danish,DP02_0127E,159157.0
+ANCESTRY,Total population,Dutch,DP02_0128E,325780.0
+ANCESTRY,Total population,English,DP02_0129E,2011759.0
+ANCESTRY,Total population,French (except Basque),DP02_0130E,635305.0
+ANCESTRY,Total population,French Canadian,DP02_0131E,105610.0
+ANCESTRY,Total population,German,DP02_0132E,2842261.0
+ANCESTRY,Total population,Greek,DP02_0133E,133425.0
+ANCESTRY,Total population,Hungarian,DP02_0134E,114543.0
+ANCESTRY,Total population,Irish,DP02_0135E,2336215.0
+ANCESTRY,Total population,Italian,DP02_0136E,1422177.0
+ANCESTRY,Total population,Lithuanian,DP02_0137E,47597.0
+ANCESTRY,Total population,Norwegian,DP02_0138E,366559.0
+ANCESTRY,Total population,Polish,DP02_0139E,464019.0
+ANCESTRY,Total population,Portuguese,DP02_0140E,337671.0
+ANCESTRY,Total population,Russian,DP02_0141E,379902.0
+ANCESTRY,Total population,Scotch-Irish,DP02_0142E,209707.0
+ANCESTRY,Total population,Scottish,DP02_0143E,480453.0
+ANCESTRY,Total population,Slovak,DP02_0144E,24045.0
+ANCESTRY,Total population,Subsaharan African,DP02_0145E,284001.0
+ANCESTRY,Total population,Swedish,DP02_0146E,372251.0
+ANCESTRY,Total population,Swiss,DP02_0147E,99952.0
+ANCESTRY,Total population,Ukrainian,DP02_0148E,112356.0
+ANCESTRY,Total population,Welsh,DP02_0149E,158575.0
+ANCESTRY,Total population,West Indian (excluding Hispanic origin groups),DP02_0150E,89482.0
+ANCESTRY,Total population,,DP02_0123E,39283497.0
+COMPUTERS AND INTERNET USE,Total households,With a broadband Internet subscription,DP02_0153E,11303564.0
+COMPUTERS AND INTERNET USE,Total households,With a computer,DP02_0152E,12131484.0
+COMPUTERS AND INTERNET USE,Total households,,DP02_0151E,13044266.0
+DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,18 to 64 years,With a disability,DP02_0076E,1945386.0
+DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,18 to 64 years,,DP02_0075E,24388423.0
+DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,65 years and over,With a disability,DP02_0078E,1857899.0
+DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,65 years and over,,DP02_0077E,5390370.0
+DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,Total Civilian Noninstitutionalized Population,With a disability,DP02_0072E,4101034.0
+DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,Total Civilian Noninstitutionalized Population,,DP02_0071E,38787337.0
+DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,Under 18 years,With a disability,DP02_0074E,297749.0
+DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,Under 18 years,,DP02_0073E,9008544.0
+EDUCATIONAL ATTAINMENT,Population 25 years and over,"9th to 12th grade, no diploma",DP02_0061E,1985681.0
+EDUCATIONAL ATTAINMENT,Population 25 years and over,Associate's degree,DP02_0064E,2073823.0
+EDUCATIONAL ATTAINMENT,Population 25 years and over,Bachelor's degree,DP02_0065E,5603047.0
+EDUCATIONAL ATTAINMENT,Population 25 years and over,Bachelor's degree or higher,DP02_0068E,8980726.0
+EDUCATIONAL ATTAINMENT,Population 25 years and over,Graduate or professional degree,DP02_0066E,3377679.0
+EDUCATIONAL ATTAINMENT,Population 25 years and over,High school graduate (includes equivalency),DP02_0062E,5423462.0
+EDUCATIONAL ATTAINMENT,Population 25 years and over,High school graduate or higher,DP02_0067E,22052868.0
+EDUCATIONAL ATTAINMENT,Population 25 years and over,Less than 9th grade,DP02_0060E,2432994.0
+EDUCATIONAL ATTAINMENT,Population 25 years and over,"Some college, no degree",DP02_0063E,5574857.0
+EDUCATIONAL ATTAINMENT,Population 25 years and over,,DP02_0059E,26471543.0
+FERTILITY,Number of women 15 to 50 years old who had a birth in the past 12 months,"Per 1,000 women 15 to 19 years old",DP02_0041E,10.0
+FERTILITY,Number of women 15 to 50 years old who had a birth in the past 12 months,"Per 1,000 women 15 to 50 years old",DP02_0040E,49.0
+FERTILITY,Number of women 15 to 50 years old who had a birth in the past 12 months,"Per 1,000 women 20 to 34 years old",DP02_0042E,76.0
+FERTILITY,Number of women 15 to 50 years old who had a birth in the past 12 months,"Per 1,000 women 35 to 50 years old",DP02_0043E,33.0
+FERTILITY,Number of women 15 to 50 years old who had a birth in the past 12 months,"Unmarried women (widowed, divorced, and never married)",DP02_0038E,147612.0
+FERTILITY,Number of women 15 to 50 years old who had a birth in the past 12 months,"Unmarried women (widowed, divorced, and never married)",DP02_0039E,27.0
+FERTILITY,Number of women 15 to 50 years old who had a birth in the past 12 months,,DP02_0037E,469884.0
+GRANDPARENTS,Number of grandparents living with own grandchildren under 18 years,Grandparents responsible for grandchildren,DP02_0045E,249746.0
+GRANDPARENTS,Number of grandparents living with own grandchildren under 18 years,Years responsible for grandchildren,DP02_0046E,47288.0
+GRANDPARENTS,Number of grandparents living with own grandchildren under 18 years,Years responsible for grandchildren,DP02_0047E,54353.0
+GRANDPARENTS,Number of grandparents living with own grandchildren under 18 years,Years responsible for grandchildren,DP02_0048E,39929.0
+GRANDPARENTS,Number of grandparents living with own grandchildren under 18 years,Years responsible for grandchildren,DP02_0049E,108176.0
+GRANDPARENTS,Number of grandparents living with own grandchildren under 18 years,,DP02_0044E,1135297.0
+GRANDPARENTS,Number of grandparents responsible for own grandchildren under 18 years,Who are female,DP02_0051E,153482.0
+GRANDPARENTS,Number of grandparents responsible for own grandchildren under 18 years,Who are married,DP02_0052E,176979.0
+GRANDPARENTS,Number of grandparents responsible for own grandchildren under 18 years,,DP02_0050E,249746.0
+HOUSEHOLDS BY TYPE,Total households,Average family size,DP02_0017E,3.53
+HOUSEHOLDS BY TYPE,Total households,Average household size,DP02_0016E,2.95
+HOUSEHOLDS BY TYPE,Total households,Cohabiting couple household,DP02_0004E,874868.0
+HOUSEHOLDS BY TYPE,Total households,Cohabiting couple household,DP02_0005E,331408.0
+HOUSEHOLDS BY TYPE,Total households,"Female householder, no spouse/partner present",DP02_0010E,3417627.0
+HOUSEHOLDS BY TYPE,Total households,"Female householder, no spouse/partner present",DP02_0011E,631664.0
+HOUSEHOLDS BY TYPE,Total households,"Female householder, no spouse/partner present",DP02_0012E,1715491.0
+HOUSEHOLDS BY TYPE,Total households,"Female householder, no spouse/partner present",DP02_0013E,836525.0
+HOUSEHOLDS BY TYPE,Total households,Households with one or more people 65 years and over,DP02_0015E,3803822.0
+HOUSEHOLDS BY TYPE,Total households,Households with one or more people under 18 years,DP02_0014E,4482879.0
+HOUSEHOLDS BY TYPE,Total households,"Male householder, no spouse/partner present",DP02_0006E,2260535.0
+HOUSEHOLDS BY TYPE,Total households,"Male householder, no spouse/partner present",DP02_0007E,171733.0
+HOUSEHOLDS BY TYPE,Total households,"Male householder, no spouse/partner present",DP02_0008E,1390613.0
+HOUSEHOLDS BY TYPE,Total households,"Male householder, no spouse/partner present",DP02_0009E,403763.0
+HOUSEHOLDS BY TYPE,Total households,Married-couple family,DP02_0002E,6491236.0
+HOUSEHOLDS BY TYPE,Total households,Married-couple family,DP02_0003E,2801975.0
+HOUSEHOLDS BY TYPE,Total households,,DP02_0001E,13044266.0
+LANGUAGE SPOKEN AT HOME,Population 5 years and over,Asian and Pacific Islander languages,DP02_0119E,3669314.0
+LANGUAGE SPOKEN AT HOME,Population 5 years and over,Asian and Pacific Islander languages,DP02_0120E,1734532.0
+LANGUAGE SPOKEN AT HOME,Population 5 years and over,English only,DP02_0112E,20539952.0
+LANGUAGE SPOKEN AT HOME,Population 5 years and over,Language other than English,DP02_0113E,16292017.0
+LANGUAGE SPOKEN AT HOME,Population 5 years and over,Language other than English,DP02_0114E,6550453.0
+LANGUAGE SPOKEN AT HOME,Population 5 years and over,Other Indo-European languages,DP02_0117E,1660914.0
+LANGUAGE SPOKEN AT HOME,Population 5 years and over,Other Indo-European languages,DP02_0118E,495415.0
+LANGUAGE SPOKEN AT HOME,Population 5 years and over,Other languages,DP02_0121E,383273.0
+LANGUAGE SPOKEN AT HOME,Population 5 years and over,Other languages,DP02_0122E,127433.0
+LANGUAGE SPOKEN AT HOME,Population 5 years and over,Spanish,DP02_0115E,10578516.0
+LANGUAGE SPOKEN AT HOME,Population 5 years and over,Spanish,DP02_0116E,4193073.0
+LANGUAGE SPOKEN AT HOME,Population 5 years and over,,DP02_0111E,36831969.0
+MARITAL STATUS,Females 15 years and over,Divorced,DP02_0036E,1746282.0
+MARITAL STATUS,Females 15 years and over,Never married,DP02_0032E,5389443.0
+MARITAL STATUS,Females 15 years and over,"Now married, except separated",DP02_0033E,7338340.0
+MARITAL STATUS,Females 15 years and over,Separated,DP02_0034E,377615.0
+MARITAL STATUS,Females 15 years and over,Widowed,DP02_0035E,1241238.0
+MARITAL STATUS,Females 15 years and over,,DP02_0031E,16092918.0
+MARITAL STATUS,Males 15 years and over,Divorced,DP02_0030E,1200982.0
+MARITAL STATUS,Males 15 years and over,Never married,DP02_0026E,6343459.0
+MARITAL STATUS,Males 15 years and over,"Now married, except separated",DP02_0027E,7559757.0
+MARITAL STATUS,Males 15 years and over,Separated,DP02_0028E,256927.0
+MARITAL STATUS,Males 15 years and over,Widowed,DP02_0029E,334237.0
+MARITAL STATUS,Males 15 years and over,,DP02_0025E,15695362.0
+PLACE OF BIRTH,Total population,Foreign born,DP02_0093E,10547210.0
+PLACE OF BIRTH,Total population,Native,DP02_0088E,28736287.0
+PLACE OF BIRTH,Total population,Native,DP02_0089E,28192250.0
+PLACE OF BIRTH,Total population,Native,DP02_0090E,21817639.0
+PLACE OF BIRTH,Total population,Native,DP02_0091E,6374611.0
+PLACE OF BIRTH,Total population,Native,DP02_0092E,544037.0
+PLACE OF BIRTH,Total population,,DP02_0087E,39283497.0
+RELATIONSHIP,Population in households,Child,DP02_0022E,12157472.0
+RELATIONSHIP,Population in households,Householder,DP02_0019E,13044266.0
+RELATIONSHIP,Population in households,Other nonrelatives,DP02_0024E,1892266.0
+RELATIONSHIP,Population in households,Other relatives,DP02_0023E,4002570.0
+RELATIONSHIP,Population in households,Spouse,DP02_0020E,6485656.0
+RELATIONSHIP,Population in households,Unmarried partner,DP02_0021E,880005.0
+RELATIONSHIP,Population in households,,DP02_0018E,38462235.0
+RESIDENCE 1 YEAR AGO,Population 1 year and over,Abroad,DP02_0086E,311493.0
+RESIDENCE 1 YEAR AGO,Population 1 year and over,Different house in the U.S.,DP02_0081E,4681812.0
+RESIDENCE 1 YEAR AGO,Population 1 year and over,Different house in the U.S.,DP02_0082E,3108823.0
+RESIDENCE 1 YEAR AGO,Population 1 year and over,Different house in the U.S.,DP02_0083E,1572989.0
+RESIDENCE 1 YEAR AGO,Population 1 year and over,Different house in the U.S.,DP02_0084E,1069429.0
+RESIDENCE 1 YEAR AGO,Population 1 year and over,Different house in the U.S.,DP02_0085E,503560.0
+RESIDENCE 1 YEAR AGO,Population 1 year and over,Same house,DP02_0080E,33839689.0
+RESIDENCE 1 YEAR AGO,Population 1 year and over,,DP02_0079E,38832994.0
+SCHOOL ENROLLMENT,Population 3 years and over enrolled in school,College or graduate school,DP02_0058E,3196293.0
+SCHOOL ENROLLMENT,Population 3 years and over enrolled in school,Elementary school (grades 1-8),DP02_0056E,3958541.0
+SCHOOL ENROLLMENT,Population 3 years and over enrolled in school,High school (grades 9-12),DP02_0057E,2142242.0
+SCHOOL ENROLLMENT,Population 3 years and over enrolled in school,Kindergarten,DP02_0055E,519576.0
+SCHOOL ENROLLMENT,Population 3 years and over enrolled in school,"Nursery school, preschool",DP02_0054E,606655.0
+SCHOOL ENROLLMENT,Population 3 years and over enrolled in school,,DP02_0053E,10423307.0
+U.S. CITIZENSHIP STATUS,Foreign-born population,Naturalized U.S. citizen,DP02_0095E,5451086.0
+U.S. CITIZENSHIP STATUS,Foreign-born population,Not a U.S. citizen,DP02_0096E,5096124.0
+U.S. CITIZENSHIP STATUS,Foreign-born population,,DP02_0094E,10547210.0
+VETERAN STATUS,Civilian population 18 years and over,Civilian veterans,DP02_0070E,1574531.0
+VETERAN STATUS,Civilian population 18 years and over,,DP02_0069E,30130323.0
+WORLD REGION OF BIRTH OF FOREIGN BORN,"Foreign-born population, excluding population born at sea",Africa,DP02_0107E,193567.0
+WORLD REGION OF BIRTH OF FOREIGN BORN,"Foreign-born population, excluding population born at sea",Asia,DP02_0106E,4157181.0
+WORLD REGION OF BIRTH OF FOREIGN BORN,"Foreign-born population, excluding population born at sea",Europe,DP02_0105E,677261.0
+WORLD REGION OF BIRTH OF FOREIGN BORN,"Foreign-born population, excluding population born at sea",Latin America,DP02_0109E,5302761.0
+WORLD REGION OF BIRTH OF FOREIGN BORN,"Foreign-born population, excluding population born at sea",Northern America,DP02_0110E,130093.0
+WORLD REGION OF BIRTH OF FOREIGN BORN,"Foreign-born population, excluding population born at sea",Oceania,DP02_0108E,86276.0
+WORLD REGION OF BIRTH OF FOREIGN BORN,"Foreign-born population, excluding population born at sea",,DP02_0104E,10547139.0
+YEAR OF ENTRY,Population born outside the United States,Foreign born,DP02_0101E,10547210.0
+YEAR OF ENTRY,Population born outside the United States,Foreign born,DP02_0102E,1577914.0
+YEAR OF ENTRY,Population born outside the United States,Foreign born,DP02_0103E,8969296.0
+YEAR OF ENTRY,Population born outside the United States,Native,DP02_0098E,544037.0
+YEAR OF ENTRY,Population born outside the United States,Native,DP02_0099E,114056.0
+YEAR OF ENTRY,Population born outside the United States,Native,DP02_0100E,429981.0
+YEAR OF ENTRY,Population born outside the United States,,DP02_0097E,11091247.0
