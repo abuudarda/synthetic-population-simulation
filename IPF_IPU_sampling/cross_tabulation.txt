@@ -1,0 +1,367 @@
+AGEP      adult                                                               \
+SCHL   Bachelor                                                                
+RAC1P     asian                         black                   native         
+HINCP        0  2  3  4  5  6  7  8  10    2  3  5  6  7  8  9      0  1  2    
+SEX                                                                            
+female        0  1  1  1  2  5  2  4  2     1  3  2  4  0  1  1      2  0  1   
+male          3  3  0  1  1  3  4  5  1     0  0  5  7  1  1  1      4  1  1   
+
+AGEP                                                                   \
+SCHL                                                                    
+RAC1P                              other                                
+HINCP  3  4   5   6   7   8  9  10    0  2  3  4  5  6   7   8  9  10   
+SEX                                                                     
+female  3  3  13  11  16  14  4  0     0  1  2  5  2  7   9   7  5  3   
+male    6  2   5   8   8   3  1  1     2  0  1  3  7  8  12  10  2  2   
+
+AGEP                                                                           \
+SCHL                                                                            
+RAC1P  pacific-islander    white                                                
+HINCP                4  6     0  1   2   3   4    5    6    7    8    9    10   
+SEX                                                                             
+female                0  0    13  1  22  33  53  153  319  408  589  197  173   
+male                  1  1    15  0  17  19  45   97  242  326  451  189  147   
+
+AGEP                                                                          \
+SCHL   Graduate                                                                
+RAC1P     asian                            black             native            
+HINCP        0  2  3  4  5  6  7  8  9  10    5  6  7  8  9      3  4  5  6    
+SEX                                                                            
+female        0  2  0  0  2  6  5  1  1  4     0  0  1  0  0      2  1  6  6   
+male          1  3  1  1  2  3  3  0  1  5     2  3  1  1  1      1  0  0  2   
+
+AGEP                                                                        \
+SCHL                                                                         
+RAC1P              other                         white                       
+HINCP  7  8  9  10    2  3  4  5  6  7  8  9  10    0  2   3   4   5    6    
+SEX                                                                          
+female  1  5  2  2     0  1  0  2  5  6  3  1  3     4  7  15  13  42  111   
+male    2  4  2  0     2  1  1  0  7  5  4  2  3     2  6   6   9  15   72   
+
+AGEP                                                                          \
+SCHL                      High-school                                          
+RAC1P                           asian                            black         
+HINCP    7    8    9   10          0  2  3  4  5  6  7  8  9  10    0  2  3    
+SEX                                                                            
+female  146  231  111  96           0  0  1  1  5  2  5  3  1  1     0  1  2   
+male     75  161   63  95           1  1  0  0  3  1  2  3  0  0    14  1  2   
+
+AGEP                                                                           \
+SCHL                                                                            
+RAC1P                       native                                      other   
+HINCP  4  5  6  7  8  9  10     0  1   2   3   4   5   6   7   8  9  10    0    
+SEX                                                                             
+female  5  6  7  3  3  1  1     32  4  52  37  32  27  42  15  14  4  6     4   
+male    5  7  6  6  6  0  1     63  3  59  47  56  37  47  29  17  4  3    21   
+
+AGEP                                                                        \
+SCHL                                                                         
+RAC1P                                    pacific-islander white              
+HINCP  1  2  3  4   5   6   7   8  9  10               5     0  1   2   3    
+SEX                                                                          
+female  1  7  1  3  13  10  13   9  2  3                1    39  3  84  82   
+male    1  1  5  8  15  20  21  13  7  4                1   113  7  87  98   
+
+AGEP                                                                           \
+SCHL                                    below-high                              
+RAC1P                                        asian                   black      
+HINCP    4    5    6    7    8   9   10         0  4  5  6  7  8  10    0  2    
+SEX                                                                             
+female  130  205  338  312  263  57  66          1  2  1  6  6  1  1     1  3   
+male    165  275  537  417  370  84  89          3  0  0  4  7  1  1     1  1   
+
+AGEP                                                                         \
+SCHL                                                                          
+RAC1P                 native                                    other         
+HINCP  5  6  7  8  10     0  1   2   3   4   5   6  7  8  9  10    0  2  3    
+SEX                                                                           
+female  2  4  2  0  1     17  0  74  23  18  12   8  3  9  0  2     1  4  1   
+male    1  4  3  1  1     34  1  55  26  18  18  15  6  9  2  1    14  6  2   
+
+AGEP                                                                        \
+SCHL                                                                         
+RAC1P                        pacific-islander white                          
+HINCP  4  5  6   7  8  9  10               2     0  1   2   3   4   5   6    
+SEX                                                                          
+female  1  7  4   6  3  1  1                0    29  2  24  17  18  31  60   
+male    7  6  8  12  2  6  1                1    50  0  23  28  26  55  94   
+
+AGEP                                                                         \
+SCHL                   college                                                
+RAC1P                    asian                   black                        
+HINCP   7   8   9   10      2  3  4  5  6  7  8     0  1  2  3  4  5  6  7    
+SEX                                                                           
+female  28  26   8  15       1  1  1  2  5  6  3     1  0  0  2  1  3  4  3   
+male    45  48  21  19       1  2  0  0  1  3  0     5  1  3  2  3  2  9  6   
+
+AGEP                                                                         \
+SCHL                                                                          
+RAC1P           native                                       other            
+HINCP  8  9  10     0  1   2   3   4   5   6   7   8   9  10    0  2  3  4    
+SEX                                                                           
+female  3  1  0     18  1  47  42  33  47  41  30  18  11  3     0  7  5  7   
+male    3  3  1     38  0  30  17  25  23  31  27  27  10  7    17  5  3  6   
+
+AGEP                                                                         \
+SCHL                                                                          
+RAC1P                        pacific-islander    white                        
+HINCP   5   6   7   8  9  10               3  8     0  1   2   3    4    5    
+SEX                                                                           
+female  11  18  18  23  3  4                1  0    35  5  89  97  158  303   
+male    16  17  18  16  3  6                0  1    88  5  54  81  114  272   
+
+AGEP                                 child                                   \
+SCHL                            below-high                                    
+RAC1P                                asian                   black            
+HINCP    6    7    8    9    10         0  2  5  6  7  8  10    0  2  3  4    
+SEX                                                                           
+female  584  560  576  149  111          0  0  1  1  2  1  2     0  1  2  3   
+male    551  589  645  174  114          2  2  0  2  1  1  0     3  0  2  0   
+
+AGEP                                                                           \
+SCHL                                                                            
+RAC1P                    native                                      other      
+HINCP  5  6  7  8  9  10     0  1   2   3   4   5   6   7   8  9  10    0  1    
+SEX                                                                             
+female  1  9  4  2  0  1      1  2  80  31  30  38  23  20  14  5  1     2  3   
+male    1  4  2  1  2  1      2  2  78  46  29  39  36  20  15  4  3     0  1   
+
+AGEP                                                                        \
+SCHL                                                                         
+RAC1P                                    pacific-islander    white           
+HINCP   2   3   4   5   6   7   8  9  10               5  6     0   2   3    
+SEX                                                                          
+female  10  11   8  28  32  28  14  5  1                1  2    12  33  23   
+male    13  14  13  24  17  21   5  5  5                0  1     8  34  27   
+
+AGEP                                     senior                              \
+SCHL                                   Bachelor                               
+RAC1P                                     asian          black    native      
+HINCP   4    5    6    7    8   9   10       3  5  9  10    2  8      0  2    
+SEX                                                                           
+female  54  128  272  308  259  73  54        2  1  1  1     1  0      3  4   
+male    74  148  255  301  285  74  56        0  1  0  0     0  1      0  0   
+
+AGEP                                                                         \
+SCHL                                                                          
+RAC1P                          other                   white                  
+HINCP  3  4  5  6  7  8  9  10    2  3  5  6  7  8  10    0  1   2   3   4    
+SEX                                                                           
+female  8  7  3  1  6  3  0  2     0  3  3  3  2  2  0    44  1  47  47  70   
+male    5  3  1  4  4  4  1  1     1  0  1  2  2  1  2    15  1  28  40  44   
+
+AGEP                                                                           \
+SCHL                               Graduate                                     
+RAC1P                                 asian          black    native            
+HINCP    5    6    7    8   9   10       6  7  9  10    9  10     2  3  4  5    
+SEX                                                                             
+female  104  159  173  130  54  67        0  0  0  1     0  0      3  4  0  3   
+male     82  178  143  168  66  84        1  1  1  1     1  1      0  1  2  1   
+
+AGEP                                                                           \
+SCHL                                                                            
+RAC1P                 other                         pacific-islander white      
+HINCP  6  7  8  9  10    0  2  3  5  6  7  8  9  10               7     0  1    
+SEX                                                                             
+female  2  5  0  2  0     0  2  0  1  1  1  0  1  1                0    37  0   
+male    3  2  2  2  1     2  1  2  1  1  2  1  1  1                1    11  1   
+
+AGEP                                                                          \
+SCHL                                        High-school                        
+RAC1P                                             asian          black         
+HINCP   2   3   4   5   6   7    8   9   10          0  3  6  7     3  5  6    
+SEX                                                                            
+female  17  14  24  31  67  54   92  27  29           2  1  1  1     3  1  1   
+male    21  17  24  45  83  79  109  49  54           0  0  0  1     1  3  2   
+
+AGEP                                                                         \
+SCHL                                                                          
+RAC1P     native                                 other                        
+HINCP  7      0   2   3   4   5   6  7  8  9  10    0  2  3  4  5  6  7  8    
+SEX                                                                           
+female  0     15  21  13  12  10   9  5  7  3  3     0  5  2  5  3  7  1  3   
+male    1      5  19   9   8  13  14  6  5  3  5     2  7  6  0  4  7  0  1   
+
+AGEP                                                                           \
+SCHL                                                                            
+RAC1P        pacific-islander white                                             
+HINCP  9  10               5     0  1    2    3    4    5    6    7    8   9    
+SEX                                                                             
+female  0  0                1   199  1  273  328  297  374  500  223  192  48   
+male    1  1                0   121  1  139  242  220  362  502  296  238  60   
+
+AGEP                                                                        \
+SCHL       below-high                                                        
+RAC1P           asian                black                      native       
+HINCP   10         3  4  5  6  7  8     0  2  3  5  6  7  8  10     0   2    
+SEX                                                                          
+female  71          0  0  1  1  1  2     0  1  1  1  1  0  0  0      4  15   
+male    81          1  1  0  1  0  0     2  0  0  1  0  1  1  1      8  16   
+
+AGEP                                                                         \
+SCHL                                                                          
+RAC1P                        other                      pacific-islander      
+HINCP   3  4  5  6  7  8  10    2  3  4  5  6  7  8  10               4  8    
+SEX                                                                           
+female   8  6  6  4  2  2  1     1  2  0  1  3  3  1  1                0  1   
+male    15  5  3  4  4  1  1     1  1  3  3  2  2  1  0                1  0   
+
+AGEP                                                                           \
+SCHL                                                   college                  
+RAC1P     white                                          asian                  
+HINCP  10    0  1   2   3   4   5    6   7   8  9   10      3  4  5  6  7  10   
+SEX                                                                             
+female  0    91  1  83  91  50  51   58  33  27  7  13       1  1  1  1  0  1   
+male    1    68  1  56  64  66  81  106  47  24  7  19       0  0  0  0  1  0   
+
+AGEP                                                                          \
+SCHL                                                                           
+RAC1P  black          native                                  other            
+HINCP     2  5  6  7      0   2   3   4   5   6   7  8  9  10    0  2  3  4    
+SEX                                                                            
+female     1  0  0  0      2  19  17  14  22  25  11  8  3  2     0  5  6  3   
+male       0  1  2  1      5  15  10   7   6  15  15  5  0  0     1  1  3  3   
+
+AGEP                                                                         \
+SCHL                                                                          
+RAC1P                    pacific-islander white                               
+HINCP  5  6  7  8  9  10               3     0  1    2    3    4    5    6    
+SEX                                                                           
+female  4  8  4  5  1  3                0    95  0  161  178  177  286  402   
+male    0  4  4  2  0  2                1    72  2   64   94  124  208  376   
+
+AGEP                         tenager                                          \
+SCHL                     High-school                                           
+RAC1P                          asian    black native                           
+HINCP    7    8   9   10          0  7     0      0  2  3  4  5  6  7  8  10   
+SEX                                                                            
+female  259  250  75  85           1  0     0      0  1  2  5  1  2  3  2  1   
+male    257  240  75  70           0  1     4      1  2  1  2  3  3  2  2  0   
+
+AGEP                                                                          \
+SCHL                                                              below-high   
+RAC1P  other                   white                                   asian   
+HINCP     0  4  5  6  7  8  9     0  2  3  4  5  6  7   8   9  10         2    
+SEX                                                                            
+female     0  1  2  3  1  1  0    46  3  8  3  7  7  9  11   4  4          1   
+male       2  0  1  0  0  1  1    45  3  1  5  6  6  4  21  11  8          1   
+
+AGEP                                                                          \
+SCHL                                                                           
+RAC1P                     black                               native           
+HINCP  5  6   7  8  9  10    0  2  3  4  5   6   7   8  9  10     0  1    2    
+SEX                                                                            
+female  1  5   9  7  3  4     1  5  4  3  7   7   4   9  4  7     17  4  141   
+male    5  6  12  2  1  3     4  4  4  3  9  15  12  13  2  1     30  1  117   
+
+AGEP                                                                        \
+SCHL                                                                         
+RAC1P                                 other                                  
+HINCP   3   4   5   6   7   8   9  10    0  1   2   3   4   5   6   7   8    
+SEX                                                                          
+female  85  89  68  85  34  44  14  9    10  0  12  14  21  32  40  38  41   
+male    84  93  89  98  58  40  14  7     2  2  15  14  22  39  51  48  33   
+
+AGEP                                                                       \
+SCHL                                                                        
+RAC1P          pacific-islander white                                       
+HINCP   9   10               4     0  1   2   3    4    5    6    7    8    
+SEX                                                                         
+female  10  15                0    32  4  53  84  127  266  456  541  633   
+male     7   9                1    43  3  52  79  121  253  546  589  791   
+
+AGEP                                                                       \
+SCHL             college                                                    
+RAC1P              asian    black       native             other            
+HINCP    9    10      0  7     0  6  10     0  5  6  7  8     0  2  3  6    
+SEX                                                                         
+female  214  189       1  0     6  1  0      0  0  0  0  0     4  1  0  1   
+male    234  220       1  1     5  0  1      1  2  2  1  1     8  0  1  1   
+
+AGEP                                 young-adult                             \
+SCHL                                    Bachelor                              
+RAC1P  white                               asian                black         
+HINCP     0  2  4  5  6  7  8  9  10          0  2  4  5  6  7     2  4  5    
+SEX                                                                           
+female    91  2  0  1  3  3  4  1  2           1  1  2  0  1  1     0  0  0   
+male      50  3  1  2  3  1  5  0  0           0  2  0  1  0  0     1  1  1   
+
+AGEP                                                                          \
+SCHL                                                                           
+RAC1P     native             other                      white                  
+HINCP  6      2  3  5  7  8     2  3  4  5  6  7  8  10    0  1   2   3   4    
+SEX                                                                            
+female  0      1  0  0  1  1     1  0  0  2  4  1  0  3     5  1  17  15  16   
+male    1      1  1  2  0  1     0  2  1  1  0  0  2  0    17  0   9  10  15   
+
+AGEP                                                                          \
+SCHL                           Graduate                                        
+RAC1P                             asian    native other    white               
+HINCP   5   6   7   8   9   10       4  5      2     2  7     3  4  5  6  7    
+SEX                                                                            
+female  32  44  45  37   8  12        0  1      1     0  1     4  2  1  4  5   
+male    24  37  26  17  13  13        1  0      0     1  0     0  0  2  2  1   
+
+AGEP                                                                         \
+SCHL            High-school                                                   
+RAC1P                 asian                      black                        
+HINCP  8  9  10          0  3  5  6  7  8  9  10    0  2  3  5  6  7  8  9    
+SEX                                                                           
+female  1  0  1           2  0  1  1  1  1  1  1     2  2  0  0  2  0  0  2   
+male    3  1  1           3  1  2  3  1  0  0  0     5  0  1  1  3  2  1  0   
+
+AGEP                                                                          \
+SCHL                                                                           
+RAC1P     native                                  other                        
+HINCP  10     0   2   3   4  5   6   7   8  9  10    0  1  2  3  4  5  6  7    
+SEX                                                                            
+female  0      7  12  12  20  8  11   7   7  0  0     0  1  2  5  4  6  4  4   
+male    1     15   9   9   8  6  20  12  16  2  1     8  0  3  2  2  4  8  5   
+
+AGEP                                                                           \
+SCHL                                                                            
+RAC1P           pacific-islander    white                                       
+HINCP  8  9  10               0  6     0   2   3   4   5   6   7   8   9   10   
+SEX                                                                             
+female  2  2  1                0  1    39  12  18  24  41  69  32  42  13  13   
+male    2  1  0                2  0    75  22  25  39  48  77  69  67  21  18   
+
+AGEP                                                                           \
+SCHL   below-high                                                               
+RAC1P       asian black          native                           other         
+HINCP          5     0  2  3  6      0   2   3  4  5  6  7  8  10    0  2  3    
+SEX                                                                             
+female          1     0  0  1  0      7  13  12  5  6  5  2  4  2     0  2  3   
+male            0     7  1  0  1     11  20   8  6  9  6  3  6  1     1  1  1   
+
+AGEP                                                                         \
+SCHL                                                                          
+RAC1P                    pacific-islander white                               
+HINCP  4  5  6  7  8  10               0     0  2  3  4   5   6   7   8  9    
+SEX                                                                           
+female  0  1  2  2  1  0                0     2  3  2  4   4  15   7   3  3   
+male    1  2  1  4  0  1                2    24  4  2  6  11  11  12  10  8   
+
+AGEP                                                                     \
+SCHL      college                                                         
+RAC1P       asian                   black                                 
+HINCP  10      0  2  4  5  6  7  10    0  1  2  3  4  5  6  7  8  9  10   
+SEX                                                                       
+female  7      10  3  1  1  3  1  0     3  0  0  1  1  1  1  1  2  0  0   
+male    5      10  0  0  2  2  2  1     9  1  3  0  0  1  5  1  1  1  2   
+
+AGEP                                                                           \
+SCHL                                                                            
+RAC1P  native                             other                                 
+HINCP      0   2  3  4   5   6   7  8  9     0  1  2  3  4  5  6  7  8  9  10   
+SEX                                                                             
+female      3  10  7  1  11   6   5  4  1    14  1  5  1  2  3  2  5  2  1  3   
+male       19   3  5  1   8  10  10  1  0     8  0  2  1  0  3  3  3  0  4  1   
+
+AGEP                                              
+SCHL                                              
+RAC1P  white                                      
+HINCP     0   2   3   4   5   6   7   8   9   10  
+SEX                                               
+female   247  33  33  54  58  97  71  58  25  14  
+male     236  32  38  44  83  99  80  68  36  24  
