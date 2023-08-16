@@ -14,3 +14,8 @@ NHTS Data Parser/HH Data Parser/vehpub.csv
 NHTS Data Parser/HH Data Parser/trippub.csv
 NHTS Data Parser/HH Data Parser/hhpub.csv
 NHTS Data Parser/HH Data Parser/perpub.csv
+NHTS Data/vehpub.csv
+NHTS Data/trippub.csv
+NHTS Data/perpub.csv
+NHTS Data/dummy_trippub.csv
+NHTS Data/hhpub.csv
