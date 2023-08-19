@@ -1,22 +1,12 @@
 
 CA-data/pums/psam_h06.csv
 CA-data/pums/psam_p06.csv
-NHTS Data Parser - Rahat\HH Data Parser\perpub.csv
-NHTS Data Parser - Rahat\HH Data Parser\trippub.csv
-NHTS Data Parser - Rahat/HH Data Parser/perpub.csv
-NHTS Data Parser - Rahat/HH Data Parser/trippub.csv
-NHTS Data Parser - Rahat/HH Data Parser/vehpub.csv
-NHTS Data Parser - Rahat/HH Data Parser/hhpub.csv
-NHTS Data Parser/HH Data Parser/vehpub.csv
-NHTS Data Parser/HH Data Parser/trippub.csv
-NHTS Data Parser/HH Data Parser/hhpub.csv
-NHTS Data Parser/HH Data Parser/perpub.csv
 NHTS Data/vehpub.csv
 NHTS Data/trippub.csv
 NHTS Data/perpub.csv
 NHTS Data/dummy_trippub.csv
 NHTS Data/hhpub.csv
 NHTS Data/dummy_perpub.csv
-PreProcess_Dweltime/hour_data.csv
 PreProcess_Dweltime/hour_data - Copy.csv
+PreProcess_Dweltime/hour_data.csv
 
