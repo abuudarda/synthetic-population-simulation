@@ -11,9 +11,9 @@ def ipu(datafile, constrains):
     for i in ipf:
         if i == 0:
             i = e
-    w = np.array(df['weights'], dtype=np.float32)
-    df = df.drop(['ID'], axis=1)
-    df = df.drop(['weights'], axis=1)
+    w = np.array(df['Weights'], dtype=np.float32)
+    df = df.drop(['Household ID'], axis=1)
+    df = df.drop(['Weights'], axis=1)
     ws = np.zeros(5)
     i = 0
 
@@ -73,4 +73,4 @@ def ipu(datafile, constrains):
 
 
 ipf = np.array([35., 65., 91., 65., 104.])
-x = ipu('dummy-ipu.csv', ipf)
+x = ipu('C:\\Users\\abubabu\\Documents\\GitHub\\synthetic-population-simulation\\IPF_IPU_sampling\\demo\\demoipu.csv', ipf)
