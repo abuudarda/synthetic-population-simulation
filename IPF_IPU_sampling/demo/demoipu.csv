@@ -1,9 +1,4 @@
-Household ID,Weights,Household Type 1,Household Type 2,Person Type 1,Person Type 2,Person Type 3
-1,1,1,0,1,1,1
-2,1,1,0,1,0,1
-3,1,1,0,2,1,0
-4,1,0,1,1,0,2
-5,1,0,1,0,2,1
-6,1,0,1,1,1,0
-7,1,0,1,2,1,2
-8,1,0,1,1,1,0
+Household ID,Weights,Household Type 1,Household Type 3,Household Type 2,Person Type 1,Person Type 2,Person Type 3
+1,1,1,0,0,1,0,0
+2,1,0,1,0,0,1,2
+3,1,0,0,1,1,0,0

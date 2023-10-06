@@ -14,7 +14,7 @@ def ipu(datafile, constrains):
     w = np.array(df['Weights'], dtype=np.float32)
     df = df.drop(['Household ID'], axis=1)
     df = df.drop(['Weights'], axis=1)
-    ws = np.zeros(5)
+    ws = np.zeros(6)
     i = 0
 
     for col  in df.columns:
@@ -34,12 +34,13 @@ def ipu(datafile, constrains):
     print(a)
     print(type(a[1][1]))
 
-    w1 = open("ipu-weights.txt", "w")
-    w2 = open("ipu-weighted_sums.txt", "w")
+    w1 = open("C:\\Users\\abubabu\\Documents\\GitHub\\synthetic-population-simulation\\IPF_IPU_sampling\\demo\\ipu-weights.txt", "w")
+    w2 = open("C:\\Users\\abubabu\\Documents\\GitHub\\synthetic-population-simulation\\IPF_IPU_sampling\\demo\\ipu-weighted_sums.txt", "w")
     
     t=1
 
     while(True):
+
 
         delta_prev = delta
 
@@ -72,5 +73,5 @@ def ipu(datafile, constrains):
         t+=1
 
 
-ipf = np.array([35., 65., 91., 65., 104.])
+ipf = np.array([4., 5., 3., 7., 4.,9.])
 x = ipu('C:\\Users\\abubabu\\Documents\\GitHub\\synthetic-population-simulation\\IPF_IPU_sampling\\demo\\demoipu.csv', ipf)
